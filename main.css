@@ -87,6 +87,10 @@ section p {
     display: flex;
 }
 
+#contact h2 {
+    margin-left: 126px;
+}
+
 .contact-methods {
     display:  flex;
     justify-content: space-between;
