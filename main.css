@@ -84,11 +84,11 @@ section p {
 }
 
 #contact .container {
-    display: block;
+    display: flex;
 }
 
 .contact-methods {
-    display: flex;
+    display:  flex;
     justify-content: space-between;
 }
 
